@@ -70,7 +70,6 @@ m.alter(0, 0, m.get(1, 1))
 m.printColumn(0) //prints 6, 5, 9 (separate lines)
 m.printRow(0) //prints 6, 2, 3, 4 (separate lines)
 
-
 // Exercise 2 tests:
 console.log(m.findCoordinate(12)) //prints {x: 3, y: 2}
 console.log(m.findCoordinate(7)) //prints {x: 2, y: 1}
